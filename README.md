@@ -1,0 +1,1 @@
+# This is a modern gallery project using HTML and CSS.
